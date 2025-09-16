@@ -47,4 +47,4 @@ jupyter notebook
 - Yashraj Kadam (22bds066)
 - Parishri Shah (22bds043)
 - Preethi Varshala S (22bds045)
-- Rohit Thakur (22bec051)
+- Rohit Thakur (22bec052)
