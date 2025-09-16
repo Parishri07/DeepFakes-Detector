@@ -44,7 +44,7 @@ jupyter notebook
 - Visualizations including waveform, MFCC (Mel-Frequency Cepstral Coefficients), and spectrogram displays
 
 ## Team Members
-- Yashraj Kadam (22bds066)
-- Parishri Shah (22bds043)
-- Preethi Varshala S (22bds045)
-- Rohit Thakur (22bec052)
+- 22bds066 - Yashraj Kadam - BiLSTM Model
+- 22bds043 - Parishri Shah - Hubert Model   
+- 22bds045 - Preethi Varshala S - Residual Networks Model
+- 22bec052 - Rohit Thakur - WavLM Model
