@@ -13,14 +13,6 @@ Currently, the implementation is available in the form of **Jupyter Notebooks** 
 - Spoofed samples are generated using **Text-to-Speech (TTS)** and **Voice Conversion (VC)** algorithms.  
 - The dataset provides a challenging benchmark for deepfake speech detection tasks.  
 
-## Notebooks Included
-- `cnn-model.ipynb`: Convolutional Neural Network based model experiments.
-- `Hubert.ipynb`: Experiments using the HuBERT model.
-- `LSTM.ipynb`: Long Short-Term Memory network based experiments.
-- `resnet.ipynb`: ResNet architecture experiments.
-- `wavenet.ipynb`: WaveNet model experiments.
-- `wavlm-1.ipynb`: Experiments using the WavLM model.
-
 ## Setup
 This project requires Python 3.10.0 or later with the necessary dependencies installed.
 
@@ -29,15 +21,18 @@ To install dependencies:
 pip install -r requirements.txt
 ```
 
-## Usage
-Launch Jupyter Notebook and open any of the included notebooks to explore the experiments.
+## Progress
 
-```bash
-jupyter notebook
-```
+### Before midsem
+- `cnn-model.ipynb`: Convolutional Neural Network based model experiments for audio classification.
+- `Hubert.ipynb`: Experiments using the HuBERT model for self-supervised learning on audio features.
+- `LSTM.ipynb`: Long Short-Term Memory network based experiments for sequential audio data processing.
+- `resnet.ipynb`: ResNet architecture experiments for deep residual learning on spectrograms.
+- `wavenet.ipynb`: WaveNet model experiments for generative modeling of audio waveforms.
+- `wavlm-1.ipynb`: Experiments using the WavLM model for large-scale self-supervised speech representation learning.
 
-## Future Work
-- Develop a **Streamlit dashboard** for real-time demo and visualization.
+### After midsem
+- Developed a **Streamlit dashboard** for real-time demo and visualization.
 - Upload FLAC audio files for analysis
 - Record audio on-the-spot for real-time detection
 - Prediction functionality to classify audio as spoofed or bonafide
