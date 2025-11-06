@@ -21,6 +21,22 @@ To install dependencies:
 pip install -r requirements.txt
 ```
 
+## Usage
+
+### Running Notebooks
+Launch Jupyter Notebook and open any of the included notebooks to explore the experiments.
+
+```bash
+jupyter notebook
+```
+
+### Running the Streamlit App
+To run the Streamlit dashboard for real-time detection:
+
+```bash
+streamlit run app/main.py
+```
+
 ## Progress
 
 ### Before midsem
