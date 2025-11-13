@@ -55,7 +55,7 @@ streamlit run app/main.py
 - Visualizations including waveform, MFCC (Mel-Frequency Cepstral Coefficients), and spectrogram displays
 
 ## Team Members
-- 22bds066 - Yashraj Kadam - LSTM and WaveNet model experiments, Streamlit dashboard development
+- 22bds066 - Yashraj Kadam - BiLSTM model experiments, Streamlit dashboard development
 - 22bds043 - Parishri Shah - Hubert model experiments, audio visualizations (waveform, MFCC, spectrogram) 
 - 22bds045 - Preethi Varshala S - ResNet model experiments, audio recording functionality
 - 22bec052 - Rohit Thakur - WavLM model experiments, FLAC file upload and prediction features
